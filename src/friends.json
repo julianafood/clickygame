@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Rachel",
+      "image": "https://imgix.bustle.com/rehost/2016/9/13/e631b03e-26aa-4e39-80c5-e3ec1b3e5f7c.png?w=970&h=546&fit=crop&crop=faces&auto=format&q=70",
+      "occupation": "Fashionista",
+      "location": "Central Perk"
+    },
+    {
+      "id": 2,
+      "name": "Ross",
+      "image": "https://cdn.evoke.ie/wp-content/uploads/2018/04/04155521/Ross-Friends-696x503.jpg",
+      "occupation": "Paleontologist",
+      "location": "Central Perk"
+    },
+    {
+      "id": 3,
+      "name": "Joey",
+      "image": "https://data.whicdn.com/images/96100799/large.jpg",
+      "occupation": "Actor",
+      "location": "Central Perk"
+    },
+    {
+      "id": 4,
+      "name": "Chandler",
+      "image": "https://www.cheatsheet.com/wp-content/uploads/2018/09/Chandler-on-Friends.png",
+      "occupation": "Transponster",
+      "location": "Central Perk"
+    },
+    {
+      "id": 5,
+      "name": "Pheobe",
+      "image": "https://imgix.bustle.com/rehost/2016/9/13/c9e38185-9873-4dd9-82eb-6d873280415e.png?w=970&h=546&fit=crop&crop=faces&auto=format&q=70",
+      "occupation": "Masseuse",
+      "location": "Central Perk"
+    },
+    {
+      "id": 6,
+      "name": "Monica",
+      "image": "https://imgix.bustle.com/rehost/2016/9/13/04a388e1-335b-4fad-969f-383866bddab7.png?w=970&h=546&fit=crop&crop=faces&auto=format&q=70",
+      "occupation": "Chef",
+      "location": "Central Perk"
+    },
+    {
+      "id": 7,
+      "name": "Gunther",
+      "image": "https://i.ytimg.com/vi/lzs6Wm0xUK4/maxresdefault.jpg",
+      "occupation": "Background Guy",
+      "location": "Central Perk"
+    },
+    {
+      "id": 8,
+      "name": "Janice",
+      "image": "https://media.thetab.com/blogs.dir/279/files/2017/09/janice.jpg",
+      "occupation": "Annoying girlfriend",
+      "location": "Everywhere"
+    },
+    {
+      "id": 9,
+      "name": "Mike",
+      "image": "https://www.weeklyquiz.co.uk/wp-content/uploads/2018/01/paul-rudd-mike-hannigan-659x388.jpg",
+      "occupation": "Musician",
+      "location": "Central Perk"
+    },
+    {
+      "id": 10,
+      "name": "Ben",
+      "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/01/14/10/benfriends.JPG?w968h681",
+      "occupation": "Son",
+      "location": "With Carol and Susan"
+    },
+    {
+      "id": 11,
+      "name": "Emma",
+      "image": "https://cdn.evoke.ie/wp-content/uploads/2018/08/01164520/10x02_004-696x503.jpg",
+      "occupation": "Daughter",
+      "location": "Central Perk"
+    },
+    {
+      "id": 12,
+      "name": "Will",
+      "image": "http://www.media1.hw-static.com/wp-content/uploads/60017095.jpg",
+      "occupation": "Fanclub member",
+      "location": "Thanksgiving Dinner"
+    }
+  ]
+  
